@@ -3,7 +3,9 @@
 
 ## 实验环境：
 操作系统是最开始是MacOS，后来转到Ubuntu 18.04，整套实验都可以在Ubuntu 18.04使用make做编译
+
 x86汇编编译器：NASM version 2.11.08
+
 C语言编译器：gcc version 7.5.0
 
 如果不想安装虚拟机可以考虑在Windows下安装wsl，配置与我相同的实验环境也可以编译。
